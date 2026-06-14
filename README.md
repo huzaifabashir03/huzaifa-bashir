@@ -1,2 +1,2 @@
-# huzaifa-bashir-portfolio
+# huzaifa-portfolio
 My Portfolio
